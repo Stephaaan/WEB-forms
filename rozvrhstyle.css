@@ -1,0 +1,35 @@
+table{
+    text-align: center;
+}
+th{
+    font-family: "Arial bold";
+    background-color: #aaa;
+}
+.onofrej{
+    background-color: #CC2222
+}
+.petrovsky{
+    background-color: #22C;
+}
+.kovacova{
+    background-color: #2C2;
+}
+.krajnakova{
+    background-color: #C2C;
+}
+.tableData{
+
+}
+.tableTop{
+    text-align: center;
+    font-family: "Arial";
+}
+.tableBottom{
+    text-align: right;
+    font-size: 10px;
+    font-family: "Arial bold";
+    margin-top: 15px;
+    margin-bottom: -15px;
+    padding-bottom: 0;
+    margin-left: 5px;
+}
